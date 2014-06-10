@@ -69,5 +69,5 @@ Vítěz soutěže bude vyhlášen v průběhu zahajovací sekce Konference GIS E
 - Responzivní design
 
 ###Zdroje
-Vzorová šablona aplikace: https://github.com/arcdata/100-lines-or-less-js/tree/master/app-template.
+Vzorová šablona aplikace: https://github.com/arcdata/100-lines-or-less-js/tree/master/app-template.  
 Výsledky soutěže 100-lines-or-less-js, kterou tento rok pořádala Esri na své konferenci pro vývojáře: https://github.com/Esri/100-lines-or-less-js.
